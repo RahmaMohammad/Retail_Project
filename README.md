@@ -46,14 +46,6 @@ retail_project/
 
 ---
 
-## 🚀 Quick Start
-Clone the repo and set up dependencies:
-```bash
-git clone git@github.com:RahmaMohammad/Retail_Project.git
-cd Retail_Project
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-
 ## 📊 Visual Examples
 
 ### Sales Trend Over Time
@@ -89,3 +81,13 @@ pip install -r requirements.txt
 ### Customer Lifetime Value Distribution
 ![Customer Lifetime Value](./output/fig_clv_hist.png)  
 *Insight:* Most customers fall in the low-to-mid CLV range, but a small segment of high-value customers has outsized business impact.  
+
+
+## 🚀 Quick Start
+Clone the repo and set up dependencies:
+```bash
+git clone git@github.com:RahmaMohammad/Retail_Project.git
+cd Retail_Project
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+ 
