@@ -52,3 +52,40 @@ This project shows that I can:
 ✔️ Create dashboards and visuals that support business planning
 ✔️ Apply forecasting and inventory management techniques
 ✔️ Package insights in a clear, reproducible GitHub portfolio
+
+
+## 📌 Highlights  
+
+The visuals below were chosen to demonstrate the most important skills for retail and e-commerce planning:  
+
+- **KPI tracking** through sales trends over time  
+- **Customer segmentation** with top-customer analysis  
+- **Seasonality insights** using holiday vs non-holiday comparisons  
+- **Operational planning** from weekday revenue patterns  
+
+These charts show not just technical ability in Python and visualization, but also the **business context** turning raw data into insights that drive decisions.
+
+
+## 📊 Visual Examples
+
+### Sales Trend Over Time
+![Monthly Sales Trend](output/fig_monthly_revenue.png)  
+*Insight:* Sales show a clear monthly growth trend with noticeable spikes during holiday seasons, reflecting demand surges and consumer behavior patterns.
+
+
+### Top 10 Customers
+![Top 10 Customers](output/fig_top10_customers.png)  
+*Insight:* A small group of customers contributes disproportionately to revenue, highlighting the importance of client segmentation and retention strategies.
+
+
+### Holiday vs Non-Holiday Revenue
+![Holiday vs Non-Holiday Revenue](output/fig_holiday_vs_non.png)  
+*Insight:* Revenue during holidays is significantly higher than non-holiday periods, showing the impact of promotions and seasonal events on sales performance.
+
+
+### Weekday Revenue Patterns
+![Weekday Revenue](output/fig_weekday_revenue.png)  
+*Insight:* Mid-week days outperform weekends in revenue generation, a pattern useful for inventory planning and targeted promotions.
+
+
+
