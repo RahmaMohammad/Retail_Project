@@ -1,0 +1,27 @@
+product_id,product_name,category,brand,soh_units,low_stock_flag,oos_flag,next_eta,next_eta_units,days_to_eta,recommended_action
+1005,Hyaluronic Acid 2% 30ml,Skincare,Dermaglow,-3036.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1023,AHA Serum 30ml,Skincare,Dermaglow,-2984.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1003,Retinol Cream 50ml,Skincare,Dermaglow,-2925.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1021,Exfoliating Toner 200ml,Skincare,Dermaglow,-2923.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1019,Beard Oil 30ml,Grooming,Groompro,-2907.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1011,Lip Balm 10g,Skincare,Dermaglow,-2895.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1015,Hand Cream 50ml,Bodycare,Bodysoft,-2820.0,1,1,2026-01-02,332.0,26.0,OOS: Expedite inbound / Pull forward PO / Rebalance store stock
+1012,Clay Mask 75ml,Skincare,Pureclean,-2772.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1024,Moisturizer Gel 50ml,Skincare,Dermaglow,-2758.0,1,1,2026-01-02,228.0,26.0,OOS: Expedite inbound / Pull forward PO / Rebalance store stock
+1026,Ceramide Moisturizer 50ml,Skincare,Dermaglow,-2738.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1002,Vitamin C Serum 30ml,Skincare,Dermaglow,-2731.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1004,Sunscreen SPF50 50ml,Skincare,Sunguard,-2690.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1014,Body Lotion 250ml,Bodycare,Bodysoft,-2678.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1025,Night Repair Cream 50ml,Skincare,Dermaglow,-2676.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1020,Aftershave 100ml,Grooming,Groompro,-2672.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1001,Aloe Hydrating Gel 100ml,Skincare,Dermaglow,-2638.0,1,1,2025-12-24,367.0,17.0,OOS: Expedite inbound / Pull forward PO / Rebalance store stock
+1022,BHA Serum 30ml,Skincare,Dermaglow,-2630.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1016,Shampoo 300ml,Haircare,Hairlux,-2624.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1013,Face Oil 30ml,Skincare,Dermaglow,-2622.0,1,1,2025-12-12,396.0,5.0,OOS: Expedite inbound / Pull forward PO / Rebalance store stock
+1018,Hair Serum 50ml,Haircare,Hairlux,-2615.0,1,1,2026-01-03,346.0,27.0,OOS: Expedite inbound / Pull forward PO / Rebalance store stock
+1017,Conditioner 300ml,Haircare,Hairlux,-2587.0,1,1,2026-01-03,463.0,27.0,OOS: Expedite inbound / Pull forward PO / Rebalance store stock
+1007,Cleansing Balm 90g,Skincare,Pureclean,-2503.0,1,1,2025-12-07,341.0,0.0,OOS: Expedite inbound / Pull forward PO / Rebalance store stock
+1008,Foaming Cleanser 200ml,Skincare,Pureclean,-2445.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1009,Micellar Water 400ml,Skincare,Pureclean,-2379.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1010,Eye Cream 15ml,Skincare,Dermaglow,-2302.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility
+1006,Niacinamide 10% 30ml,Skincare,Dermaglow,-2261.0,1,1,,,,OOS: Raise urgent PO / consider delist temp / reduce site visibility

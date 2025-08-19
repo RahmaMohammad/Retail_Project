@@ -1,0 +1,27 @@
+product_id,product_name,category,brand,opening_units,cum_sold_to_date,cum_inbound_to_date,soh_units,low_stock_flag,oos_flag
+1005,Hyaluronic Acid 2% 30ml,Skincare,Dermaglow,251,3287,0.0,-3036.0,1,1
+1023,AHA Serum 30ml,Skincare,Dermaglow,226,3210,0.0,-2984.0,1,1
+1003,Retinol Cream 50ml,Skincare,Dermaglow,223,3148,0.0,-2925.0,1,1
+1021,Exfoliating Toner 200ml,Skincare,Dermaglow,259,3182,0.0,-2923.0,1,1
+1019,Beard Oil 30ml,Grooming,Groompro,443,3350,0.0,-2907.0,1,1
+1011,Lip Balm 10g,Skincare,Dermaglow,207,3102,0.0,-2895.0,1,1
+1015,Hand Cream 50ml,Bodycare,Bodysoft,396,3216,0.0,-2820.0,1,1
+1012,Clay Mask 75ml,Skincare,Pureclean,370,3142,0.0,-2772.0,1,1
+1024,Moisturizer Gel 50ml,Skincare,Dermaglow,446,3204,0.0,-2758.0,1,1
+1026,Ceramide Moisturizer 50ml,Skincare,Dermaglow,511,3249,0.0,-2738.0,1,1
+1002,Vitamin C Serum 30ml,Skincare,Dermaglow,442,3173,0.0,-2731.0,1,1
+1004,Sunscreen SPF50 50ml,Skincare,Sunguard,575,3265,0.0,-2690.0,1,1
+1014,Body Lotion 250ml,Bodycare,Bodysoft,619,3297,0.0,-2678.0,1,1
+1025,Night Repair Cream 50ml,Skincare,Dermaglow,559,3235,0.0,-2676.0,1,1
+1020,Aftershave 100ml,Grooming,Groompro,449,3121,0.0,-2672.0,1,1
+1001,Aloe Hydrating Gel 100ml,Skincare,Dermaglow,558,3196,0.0,-2638.0,1,1
+1022,BHA Serum 30ml,Skincare,Dermaglow,589,3219,0.0,-2630.0,1,1
+1016,Shampoo 300ml,Haircare,Hairlux,641,3265,0.0,-2624.0,1,1
+1013,Face Oil 30ml,Skincare,Dermaglow,764,3386,0.0,-2622.0,1,1
+1018,Hair Serum 50ml,Haircare,Hairlux,502,3117,0.0,-2615.0,1,1
+1017,Conditioner 300ml,Haircare,Hairlux,681,3268,0.0,-2587.0,1,1
+1007,Cleansing Balm 90g,Skincare,Pureclean,434,3278,341.0,-2503.0,1,1
+1008,Foaming Cleanser 200ml,Skincare,Pureclean,697,3142,0.0,-2445.0,1,1
+1009,Micellar Water 400ml,Skincare,Pureclean,788,3167,0.0,-2379.0,1,1
+1010,Eye Cream 15ml,Skincare,Dermaglow,730,3032,0.0,-2302.0,1,1
+1006,Niacinamide 10% 30ml,Skincare,Dermaglow,789,3050,0.0,-2261.0,1,1
